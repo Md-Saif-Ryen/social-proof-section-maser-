@@ -32,6 +32,7 @@ If you would like the Sketch file in order to inspect the design in more detail 
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
+You may visit <a href="https://md-saif-ryen.github.io/social-proof-section-maser-/" target="-blank"> here </a>.
 There is also a `style-guide.md` file, which contains the information you'll need, such as color palette and fonts.
 
 ## Building your project
